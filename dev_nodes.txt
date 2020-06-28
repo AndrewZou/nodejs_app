@@ -1,0 +1,15 @@
+# Creates package.json
+npm init
+
+# Modify the package.json in "scripts": as below
+"scripts": {
+    "test": "echo \"Error: no test specified. \" && exit 1",
+    "start": "node index"
+}
+
+# Create the index.js file
+
+# Create a module file rectangle.js
+
+# Run App by command
+npm start
